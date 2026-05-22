@@ -4,7 +4,7 @@
 
 # Paralives Release
   <p align="center">
-    <strong>Paralives Early Access Release • Life Simulation Game</strong>
+    <strong>Paralives Early Access Release Steam • Life Simulation Game</strong>
     <br/>
     The Sims Alternative • Open World • Deep Character Creator • Gridless Building
     <br/>
